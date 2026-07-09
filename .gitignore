@@ -1,11 +1,11 @@
-build/
 .gradle/
+build/
 out/
 bin/
 *.class
 *.log
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+.env
+.env.*
+!.env.example
+src/main/resources/seed/
+src/main/resources/static/assets/menu/

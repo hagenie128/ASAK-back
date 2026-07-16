@@ -1,5 +1,13 @@
 # ASAK Backend
 
+## Central documentation
+
+- [ASAK docs index](../ASAK/docs/README.md)
+- [Product Bible Pack 11 — Backend Implementation](../ASAK/docs/product_bible/11_Backend_Implementation/README.md)
+- [Product Bible Pack 12 — Frontend Implementation](../ASAK/docs/product_bible/12_Frontend_Implementation/README.md)
+- [Current Implementation Map](../ASAK/docs/CURRENT_IMPLEMENTATION_MAP.md)
+- [Implementation Priority](../ASAK/docs/IMPLEMENTATION_PRIORITY.md)
+
 Spring Boot backend workspace for the ASAK kiosk API.
 
 ## Current State

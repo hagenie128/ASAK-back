@@ -9,3 +9,8 @@ bin/
 !.env.example
 src/main/resources/seed/
 src/main/resources/static/assets/menu/
+
+.idea/
+.vscode/
+*.iml
+

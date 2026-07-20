@@ -2,9 +2,9 @@
 
 > 기준일: **2026-07-20** · 코드/git 실측 (**`GET /api/health`만** business HTTP).  
 > 문서 입구: [`ASAK/docs/START_HERE.md`](../ASAK/docs/START_HERE.md)  
-> 정본 WBS: [`ASAK/docs/wiki/wbs-v2.md`](../ASAK/docs/wiki/wbs-v2.md) **WBS2-046 ~ WBS2-056** (P5)  
+> 정본 WBS: [`ASAK/docs/wiki/wbs-v2-2026-07-16.md`](../ASAK/docs/wiki/wbs-v2-2026-07-16.md) **WBS2-046 ~ WBS2-056** (P5)  
 > 연동: **WBS2-057 ~ WBS2-060** (P6, 현재 BLOCKED)  
-> Canonical API: [`ASAK/docs/governance/CANONICAL_CONTRACT_DECISIONS.md`](../ASAK/docs/governance/CANONICAL_CONTRACT_DECISIONS.md)
+> Canonical API: [`ASAK/docs/governance/canonical-contract-decisions-2026-07-16.md`](../ASAK/docs/governance/canonical-contract-decisions-2026-07-16.md)
 
 ## 현재 상태
 
@@ -64,7 +64,7 @@ JSON camelCase · DB snake_case · Entity를 API로 직접 반환하지 않음.
 ## 원본 링크
 
 - [Backend Implementation Bible](../ASAK/docs/product_bible/11_Backend_Implementation/README.md)
-- [Current Implementation Map](../ASAK/docs/planning/CURRENT_IMPLEMENTATION_MAP.md)
+- [Current Implementation Map](../ASAK/docs/planning/current-implementation-map-2026-07-16.md)
 - [WBS 상태 메모](../ASAK/docs/wiki/wbs-status-notes.md)
 - [DevCopilot sync](../ASAK/docs/wiki/devcopilot-sync-report.md)
 

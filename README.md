@@ -7,8 +7,8 @@
 - [ASAK 문서 색인](../ASAK/docs/README.md)
 - [Product Bible Pack 11 — 백엔드 구현](../ASAK/docs/product_bible/11_Backend_Implementation/README.md)
 - [Product Bible Pack 12 — 프론트엔드 구현](../ASAK/docs/product_bible/12_Frontend_Implementation/README.md)
-- [현재 구현 맵](../ASAK/docs/planning/CURRENT_IMPLEMENTATION_MAP.md)
-- [구현 우선순위](../ASAK/docs/planning/IMPLEMENTATION_PRIORITY.md)
+- [현재 구현 맵](../ASAK/docs/planning/current-implementation-map-2026-07-16.md)
+- [구현 우선순위](../ASAK/docs/planning/implementation-priority-2026-07-16.md)
 - [백엔드 구현 계획](IMPLEMENTATION_PLAN.md)
 - [API·응답 가이드](../ASAK/docs/implementation_guide/04_API_DB_IMPLEMENTATION.md)
 

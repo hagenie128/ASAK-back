@@ -10,7 +10,7 @@
 - [현재 구현 맵](../ASAK/docs/planning/current-implementation-map-2026-07-16.md)
 - [구현 우선순위](../ASAK/docs/planning/implementation-priority-2026-07-16.md)
 - [백엔드 구현 계획](IMPLEMENTATION_PLAN.md)
-- [API·응답 가이드](../ASAK/docs/implementation_guide/04_API_DB_IMPLEMENTATION.md)
+- [API·응답 가이드](../ASAK/docs/implementation_guide/04-api-db-implementation.md)
 
 ASAK 키오스크 API용 Spring Boot 백엔드 작업 공간입니다.
 

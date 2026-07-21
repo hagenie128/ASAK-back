@@ -13,4 +13,5 @@ src/main/resources/static/assets/menu/
 .idea/
 .vscode/
 *.iml
+.scripts/
 
